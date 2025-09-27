@@ -1,6 +1,4 @@
-# Ultra Kill-WIP
-
-Hey-o! I'm currently working on a Ultra Kill webport. I'm planning on finishing it tomorrow since I'm using code from someone else (luv u genizy)
+# Ultra Kill
 
 If you want, maybe go visit my site on google sites, it's right over here, just click ["here"](https://sites.google.com/online.houstonisd.org/the-noises-game-store/update-logs)
 
@@ -16,5 +14,3 @@ If you want, maybe go visit my site on google sites, it's right over here, just 
 [Hotline Miami](https://github.com/Belcrafting/hotline-miami) - By [Genizy](https://github.com/genizy)
 
 [Hollow Knight](https://github.com/Belcrafting/hollow-knight) - By [Genizy](https://github.com/genizy)
-
-### I'll change this when I'm finished but yeah. See ya'll at 7:00 PM or what ever time I decide to upload this at!
